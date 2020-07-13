@@ -1,2 +1,2 @@
 # python-challenges
-fun
+10 day Python challenge.
